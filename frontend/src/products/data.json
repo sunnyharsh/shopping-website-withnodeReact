@@ -1,0 +1,38 @@
+[
+    {
+        "productName":"samsung galaxy s10",
+        "productDescription":"8gb ram 256gb rom",
+        "price":"79000",
+        "productImage":"https://images-na.ssl-images-amazon.com/images/I/71JJB8w5erL._SX679_.jpg"
+    },
+     {
+        "productName":"Nokia 6.1 plus",
+        "productDescription":"4gb ram 64gb rom",
+        "price":"14000",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzqc70T1VruJ-imUE7Uhw22pUnpshaDbOXr7pD-HXU96AyGcWY"
+    },
+     {
+        "productName":"Iphone",
+        "productDescription":"1gb ram 64gb rom",
+        "price":"29000",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQH42IOvISabTvNbkcHi0WtYKvifbzJ_lbKOxyBrF8P9BOEnBid"
+    },
+     {
+        "productName":"Lg",
+        "productDescription":"2gb ram 16gb rom",
+        "price":"12000",
+        "productImage":"https://images-na.ssl-images-amazon.com/images/I/81Iuz%2BOYgdL._SX522_.jpg"
+    },
+     {
+        "productName":"Micromax Canvas",
+        "productDescription":"8gb ram 32gb rom",
+        "price":"16000",
+        "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMIfx6Hy7Zo7CsRlGBct0BcoKujPDfoOO8hxEhLFHMfBtzuzYP"
+    },
+    {
+        "productName":"samsung galaxy s10",
+        "productDescription":"8gb ram 256gb rom",
+        "price":"79000",
+        "productImage":"https://images-na.ssl-images-amazon.com/images/I/71JJB8w5erL._SX679_.jpg"
+    }
+]
